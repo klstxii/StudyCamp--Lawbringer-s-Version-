@@ -5,6 +5,7 @@ db.sqlite3
 .DS_Store
 */.DS_Store
 */*/.DS_Store
+('env/')
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
